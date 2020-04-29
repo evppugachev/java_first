@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: testng:testng:7.1.0">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Could not find testng:testng:7.1.0.&#10;Searched in the following locations:&#10;  - https:/repo.maven.apache.org/maven2/testng/testng/7.1.0/testng-7.1.0.pom&#10;  - https:/repo.maven.apache.org/maven2/testng/testng/7.1.0/testng-7.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
